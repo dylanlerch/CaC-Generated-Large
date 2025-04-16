@@ -1,5 +1,5 @@
 step "hello-world-using-powershell" {
-    name = "Hello world (using PowerShell)"
+    name = "Hello world"
 
     action {
         action_type = "Octopus.Script"
